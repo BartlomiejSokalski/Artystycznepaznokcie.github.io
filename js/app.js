@@ -34,7 +34,7 @@ function myFunction() {
     }
   }
 
-  var countDownDate = new Date("May 20, 2023").getTime();
+  var countDownDate = new Date("september 20, 2024").getTime();
   var x = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate - now;
